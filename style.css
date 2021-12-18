@@ -1,0 +1,47 @@
+body {
+  background-color: #70c1c4;
+  font-family: "Dancing Script", cursive;
+}
+li {
+  font-size: 50px;
+}
+a {
+  font-size: 30px;
+}
+
+#header {
+  background-image: url("https://d3m9l0v76dty0.cloudfront.net/system/photos/7634387/original/c1001135761498bad107b675c794f891.jpg");
+  background-size: 150px;
+  width: 300px;
+  height: 300px;
+  border: 2px solid;
+  color: rgb(82, 177, 148);
+}
+#body2 {
+  background-image: url(https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/samsung-galaxy-z-flip-phones-1628691188.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*);
+  width: 1000px;
+  height: 500px;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
